@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "adoption": "adoption.json",
+    "execution": "execution.json",
+    "health": "health.json",
+    "runtime": "runtime.json",
+    "workspace": "workspace.json"
+  },
+  "generated_at": 1783540968,
+  "repository": "ws-271c672d6132d61a",
+  "schema": "trythis.manifest/v1",
+  "workspace": "ws-271c672d6132d61a"
+}
