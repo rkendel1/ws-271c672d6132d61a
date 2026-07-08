@@ -1,0 +1,20 @@
+{
+  "badge": {
+    "markdown": "[![Run with TryThisSoftware](https://trythissoftware.com/badge/rkendel1/ws-271c672d6132d61a.svg)](https://trythissoftware.com/launch/rkendel1/ws-271c672d6132d61a)",
+    "url": "https://trythissoftware.com/badge/rkendel1/ws-271c672d6132d61a.svg"
+  },
+  "environment": {
+    "NODE_ENV": "production"
+  },
+  "launch_mode": "instant",
+  "launch_url": "https://trythissoftware.com/launch/rkendel1/ws-271c672d6132d61a",
+  "permissions": {
+    "public_launch": true,
+    "stored_configuration": true
+  },
+  "repository_id": "rkendel1/ws-271c672d6132d61a",
+  "runtime": "auto",
+  "schema": "trythis.launch/v1",
+  "stable_id": "trythis-79c7eae0fceb1189",
+  "topics": []
+}
