@@ -1,0 +1,11 @@
+{
+  "chunks_dir": "chunks",
+  "execution_dir": "execution",
+  "generated_at": 1783540968,
+  "healings_dir": "healings",
+  "knowledge_dir": "knowledge",
+  "repository": "ws-271c672d6132d61a",
+  "schema": "ai.bundle/v1",
+  "vectors_dir": "vectors",
+  "workspace": "ws-271c672d6132d61a"
+}
